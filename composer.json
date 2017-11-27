@@ -1,0 +1,12 @@
+{
+    "name": "timtoeruem/timtoeruem.github.io",
+    "authors": [
+        {
+            "name": "Tim Pörtner",
+            "email": "tpoertner@caseking.de"
+        }
+    ],
+    "require": {
+        "components/jquery": "^3.2"
+    }
+}
